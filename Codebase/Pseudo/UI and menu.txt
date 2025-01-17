@@ -1,0 +1,58 @@
+menu options
+1. Familars
+2. Party Editing
+3. Equipment
+4. Rituals
+5. Pacts (summon store)
+6. Store
+7. Options
+8. Currency
+9. Map
+
+Top Left:
+Options
+1. Audio
+	1.1 Sound Effect
+	1.2 Music
+	1.3 Voice
+2. Visual
+	2.1 Graphics
+	2.2 Framerate
+	2.3 Animations
+3. Mail
+	3.1 Annoucements
+	3.2 Gifts
+4. Account Info
+	4.1 ID
+	4.2 Link account
+	4.3 Support
+	4.4 Privacy
+	4.5 ToS
+
+Top Right:
+Energy
+Curency
+	Gold
+	Premium Coins
+	
+Bottom: (L-R)
+1. Map
+	1.1 Region Select
+	1.2 Boss Locations
+	1.3 Mission Select
+
+2. Familiars
+	2.1 Familiar List
+	2.2 Party Editing
+	2.3 Formations
+	2.4 Armory
+
+3. Rituals
+	3.1 Blood brothers
+	3.2 Evolution
+	3.3 Empower
+	3.4 Sacrifice Skills
+
+4. Store
+	4.1 Summon
+	4.2 Item store

@@ -1,0 +1,37 @@
+Load in enemies and familiars
+set turn order by AGI
+Resolve Opening Skills
+
+Loop until all enemies = 0 or allies = 0
+check status
+if status
+	resolve status
+check health 
+	if 0 
+	next
+pick target
+calculate skill chance
+if skill chance
+	resolve skill
+else
+	calculate atk
+
+check status effects
+	status - 1
+next 
+_________________________
+atk function
+	calculate target
+	
+	load attacker stat * scalar
+	load target defensive stat * scalar
+
+calculate buffs and debuffs
+
+calculate dmg reduction
+
+final dmg
+
+target health = target health - final dmg
+
+end

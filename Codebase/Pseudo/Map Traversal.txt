@@ -1,0 +1,6 @@
+Map Traversal
+Energy Cost
+Rewards
+Enemies
+Layout
+Boss
